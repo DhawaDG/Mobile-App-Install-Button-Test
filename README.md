@@ -1,4 +1,4 @@
-# 📈 A/B Testing Project 2: Mobile App Install Button Optimization
+# 📈 [A/B Testing Project 2](https://github.com/DhawaDG/AB_Testing_Project/blob/main/README.md): Mobile App Install Button Optimization
 
 ## 🧪 Overview
 This project evaluates whether a redesigned install button increases mobile app installations compared to the current design using Fisher's Exact Test for binary outcomes.
